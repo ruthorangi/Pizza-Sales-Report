@@ -35,6 +35,9 @@ Highlighted product performance to support menu optimization and inventory plann
 
 Repository contents
 Pizza sales Dashboard.pbix
+Pizza sales csv
+Pizza sales SQL queries.docs
+Dashboard screenshots
 README.md
 
 Author; Ruth Orangi
