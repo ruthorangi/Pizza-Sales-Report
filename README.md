@@ -26,7 +26,8 @@ Compared the contribution of each pizza category and size to total sales.
 Highlighted product performance to support menu optimization and inventory planning.
 
 # Dashboard Preview
-<img width="1366" height="768" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/9d9b9352-eae2-4e6d-b96c-1f82057c34b4" />
+<img width="993" height="543" alt="Pizza Sales report" src="https://github.com/user-attachments/assets/21452eca-23c5-4046-9841-cbdfd7a5be49" />
+
 
 <img width="812" height="492" alt="Categories sold" src="https://github.com/user-attachments/assets/bc069348-f96b-4038-a79d-88f1de51d7c3" />
 <img width="818" height="531" alt="Daily   Monthly trends " src="https://github.com/user-attachments/assets/afba4b72-61d6-47f6-b482-9a57ba5a203e" />
